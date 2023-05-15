@@ -155,6 +155,7 @@
                     <artifactId>exec-maven-plugin</artifactId>
                     <version>${version.exec-maven-plugin}</version>
                     <configuration>
+                        <!--suppress MavenModelInspection -->
                         <mainClass>${mainClass}</mainClass>
                     </configuration>
                 </plugin>
