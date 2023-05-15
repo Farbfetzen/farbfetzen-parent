@@ -6,4 +6,6 @@ A maven parent pom for my personal projects.
 
 Increase the version with each update.
 
-Check for updates: `mvn versions:display-plugin-updates`
+Check for dependency updates: `mvn versions:display-dependency-updates`
+
+Check for plugin updates: `mvn versions:display-plugin-updates`
